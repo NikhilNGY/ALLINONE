@@ -45,8 +45,8 @@ Expires on: 31/12/2020"""
       Convert To  Streamble Video , Any Telegram File
 👉 GET SCREENSHOTS :
        Send Telegram File and get Screenshots
-👉 GET FILE LINK :
-      Send Any Telegram File And Get File Link
+👉 STICKER TO PNG :
+      Send Any Telegram Sticker And Get PNG image & PNG file.
       
 --------
 Send /me to know current plan details
