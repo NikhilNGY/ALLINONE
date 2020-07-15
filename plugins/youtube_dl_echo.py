@@ -28,8 +28,6 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 from helper_funcs.chat_base import TRChatBase
 from helper_funcs.display_progress import humanbytes
-from helper_funcs.help_uploadbot import DownLoadFile
-
 
 @pyrogram.Client.on_message(pyrogram.Filters.regex(pattern=".*http.*"))
 async def echo(bot, update):
